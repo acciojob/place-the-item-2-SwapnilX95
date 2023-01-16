@@ -1,2 +1,21 @@
+.holder
+{
 
-/* Your CSS Code here. */
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+
+
+
+
+.box
+{
+
+height: 100px;
+width:  100px;
+background-color: brown;
+
+
+}
